@@ -1,4 +1,4 @@
-# CAQS: Center-aware query selection for panoptic segmentation (CVPR 2022)
+# CAQS: Center-aware query selection for panoptic segmentation
 
 ## License
 
